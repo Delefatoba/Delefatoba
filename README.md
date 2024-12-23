@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here’s a quick overview of who I am and what I d
 
 Here are some ideas to get you started:
 - 🎓 **Profession:** [Data Scientist]
-- 💼 **Current Job:** [Cogrammar]
+- 💼 **Current Job:** [Data Scientist at Cogrammar]
 - 📚 **Skills:** [Python, SQL, Big Data Technologies, Data Manipulation, Data Visualization, Cloud Platforms]
   
 ## 🌟 Projects
