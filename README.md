@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here’s a quick overview of who I am and what I do:
 
 ## 🚀 About Me
-- 🎓 **Profession:** [Data Scientist]
-- 💼 **Current Job:** [Data Scientist at Cogrammar]
+- 🎓 **Profession:** [Data Engineer]
+- 💼 **Current Job:** [Data Scientist at Northdoor Ltd]
 - 📚 **Skills:** [Python, SQL, Big Data Technologies, Data Manipulation, Data Visualization, Cloud Platforms]
 
   
